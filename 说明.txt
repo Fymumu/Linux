@@ -1,3 +1,4 @@
+studentFile.v1.1.0.py
 目前只有addInfo函数可以调用，其余函数均为pass状态
 时间：20200717
 作者：Fymumu
